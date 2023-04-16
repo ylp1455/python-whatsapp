@@ -21,4 +21,4 @@ import pywhatkit  as pwk
 # # pywhatkit.playonyt("PyWhatKit")
 
 
-pwk.sendwhatmsg("+9478590388" , "Hello this is sent by python" , 14,19 )
+pwk.sendwhatmsg("+94******" , "Hello this is sent by python" , 14,19 )
